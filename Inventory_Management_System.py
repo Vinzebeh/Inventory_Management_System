@@ -1,5 +1,3 @@
-#Beh Vin Ze, Lee Hao Ming
-#TP074210, TP074709
 
 #To run this programme smoothly, kindly save all the files in a folder and run the entire folder in a source code editor
 
