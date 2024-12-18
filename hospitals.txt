@@ -1,0 +1,4 @@
+Hos01|Hospital Kuala Lumpur
+Hos02|Hospital Shah Alam
+Hos03|Parkcity Medical Center
+Hos04|Sunway Medical Center

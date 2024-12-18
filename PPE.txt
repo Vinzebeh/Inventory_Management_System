@@ -1,0 +1,6 @@
+HC|Head Cover|0|Sup03|Hos01
+FS|Face Shield|200|Sup03|Hos03
+MS|Mask|200|Sup01|Hos01
+GL|Glove|100|Sup04|Hos04
+GW|Gown|0|Sup02|Hos02
+SC|Slove Covers|50|Sup02|Hos02
